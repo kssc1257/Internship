@@ -21,8 +21,8 @@ Output:
 - Recreated the video from those frames
 
 Output:
-- Reconstructed video link:  
-(https://drive.google.com/file/d/1meH27KBlys0epI8_zYVAX_dGpMt43wHj/view?usp=drive_link))
+- Reconstructed video link:
+- https://drive.google.com/file/d/1meH27KBlys0epI8_zYVAX_dGpMt43wHj/view?usp=drive_link
 
 ---
 
@@ -33,7 +33,7 @@ Output:
 
 Output:
 - Final video with audio link:  
-https://drive.google.com/file/d/1meH27KBlys0epI8_zYVAX_dGpMt43wHj/view?usp=drive_link)
+https://drive.google.com/file/d/1rIuodvbjHYKg4-vT0yb4XyajhkurGg_x/view?usp=drive_link
 
 ---
 
