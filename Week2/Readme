@@ -1,0 +1,22 @@
+# Week 2 - Object Detection using YOLO
+
+## Objective
+In this week, I learned how to use a pretrained YOLO model for object detection on images and multiple frames.
+
+## Task 1: Virtual Environment Setup
+- Created a virtual environment using venv
+- Activated the environment before installing packages
+## Task 2: Installing Ultralytics
+- Installed ultralytics package inside the virtual environment
+## Task 3: Object Detection on Image
+- Used YOLO pretrained model to detect objects in an image 
+## Additional Task: Object Detection on Multiple Images
+- Used frames extracted in Week 1
+- Applied YOLO detection on multiple images using Python script
+- Saved annotated images in a separate folder
+
+## Tools Used
+- Python (venv)  
+- Ultralytics YOLO  
+- FFmpeg  
+- GitHub  
